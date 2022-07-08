@@ -78,5 +78,5 @@ function markupChange({ days, hours, minutes, seconds }) {
 }
 
 function addLeadingZero(value) {
-  return String(value).padStart(2, '0');
+  return String(value).padStart(2, '0');  
 }
