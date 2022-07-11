@@ -1,4 +1,3 @@
-import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
 const refs = {
   delay: document.querySelector('input[name="delay"]'),
